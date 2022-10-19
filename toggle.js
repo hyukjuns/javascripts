@@ -5,5 +5,3 @@ function handleTitleClick() {
 }
 
 h1.addEventListener("click", handleTitleClick);
-
-console.dir(h1);

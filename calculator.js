@@ -9,5 +9,3 @@ const calculator = {
 
 const result = calculator.plus(4,2);
 const result_2 = calculator.minus(4,2);
-
-console.log(result, result_2)
